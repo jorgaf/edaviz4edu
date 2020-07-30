@@ -4,7 +4,10 @@ You can use the [editor on GitHub](https://github.com/jorgaf/edaviz4edu/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-{% include youtubePlayer.html id="4EU7vvSvV-0" %}
+
+IFrame ejemplo:
+
+<iframe src="http://www.javarepl.com/embed.html" style="width: 500px; height: 130px; border: 0px"></iframe>
 
 
 ### Markdown
